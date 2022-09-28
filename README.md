@@ -28,7 +28,7 @@ TODO: Write history
 
 TODO: Write credits
 
-<<<<<< image_branch
+
 I am kirk
 I am from Philippines
 I love playing basketball even though I am not that good, and I also love watching soccer
