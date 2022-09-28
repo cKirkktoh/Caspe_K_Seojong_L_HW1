@@ -1,16 +1,8 @@
-#Lee_seojong_HW1
+# Git & GitHub-HW1
 
-# Project Name
+You will be building a 1-page app that describes your team (where you're from, hobbies etc). Create a simple page with an image and text. Create a Github repo with a detailed ReadMe file; push the project and submit the link.
 
-TODO: Write a project description
 
-## Installation
-
-TODO: Describe the installation process
-
-## Usage
-
-TODO: Write usage instructions
 
 ## Contributing
 
@@ -20,14 +12,11 @@ TODO: Write usage instructions
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request :D
 
-## History
 
-TODO: Write history
 
 ## Credits
 
-TODO: Write credits
-
+Seojong Lee and Kirk Caspe
 
 I am kirk
 I am from Philippines
