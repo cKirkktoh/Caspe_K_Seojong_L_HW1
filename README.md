@@ -1,4 +1,3 @@
-<<<<<< dev.ksc.readme
 # Learning Github Desktop
 
 This makes things easier
