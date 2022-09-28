@@ -1,3 +1,4 @@
+<<<<<< dev.ksc.readme
 # Learning Github Desktop
 
 This makes things easier
@@ -17,3 +18,7 @@ TODO: Write credits
 ## License
 
 MIT
+
+I am kirk
+I am from Ph
+>>>> main
