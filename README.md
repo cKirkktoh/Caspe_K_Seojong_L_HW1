@@ -1,4 +1,4 @@
-![BOOM! NOT FOUND!](images\asia.jpg "Logo Title Text 1")
+![BOOM! NOT FOUND!](images\asia.jpg "Asian Landmarks")
 
 
 # Git & GitHub-HW1
