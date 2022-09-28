@@ -3,16 +3,16 @@
 
 # K AND L
 
-I am Kirk
-I am from Philippines
-I love playing basketball even though I am not that good, and I also love watching soccer
-I went to Boracay
+I am Kirk.
+I am from Philippines.
+I love playing basketball even though I am not that good, and I also lovewatching soccer.
+I also went to Boracay.
 
-I am Seojong Lee
-I came from South korea
-I like to play games and drawing
-I have lived Canada for 7 years
-I went to N Seoul Tower
+I am Seojong Lee,
+and I came from South korea.
+I like to play games and drawing.
+I have lived Canada for 7 years.
+I went to N Seoul Tower.
 
 
 
