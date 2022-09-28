@@ -1,4 +1,4 @@
-![BOOM! NOT FOUND!](images\asia.jpg) "Asian Landmarks")
+![BOOM! NOT FOUND!](images\asia.jpg "Asian Landmarks")
 
 
 # K AND L
@@ -31,6 +31,9 @@ I went to N Seoul Tower
 Seojong Lee and Kirk Caspe
 
 ## License
+MIT
+
 >>>>> main
 
-TODO: Write license
+
+
