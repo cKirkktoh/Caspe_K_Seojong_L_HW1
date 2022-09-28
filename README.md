@@ -19,8 +19,7 @@ Kirk Caspe and Lee Seojeong
 MIT
 
 I am kirk
-I am from Ph
+I am from Philppines
 
 I am Lee Seojeong
 I came from Korea
->>>> main
