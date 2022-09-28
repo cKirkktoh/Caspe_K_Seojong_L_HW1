@@ -1,3 +1,6 @@
+![BOOM! NOT FOUND!](images\asia.jpg "Logo Title Text 1")
+
+
 # Git & GitHub-HW1
 
 You will be building a 1-page app that describes your team (where you're from, hobbies etc). Create a simple page with an image and text. Create a Github repo with a detailed ReadMe file; push the project and submit the link.
