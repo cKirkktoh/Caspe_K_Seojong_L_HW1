@@ -13,7 +13,7 @@ This makes things easier
 
 ## Credits
 
-TODO: Write credits
+Kirk Caspe and Lee Seojeong
 
 ## License
 
