@@ -1,9 +1,16 @@
 ![BOOM! NOT FOUND!](images\asia.jpg "Asian Landmarks")
 
 
-# Git & GitHub-HW1
+# Asian Landmarks
 
-You will be building a 1-page app that describes your team (where you're from, hobbies etc). Create a simple page with an image and text. Create a Github repo with a detailed ReadMe file; push the project and submit the link.
+I am Kirk
+I am from Philippines
+I love playing basketball even though I am not that good, and I also love watching soccer
+
+I am Seojong Lee
+I came from South korea
+I like to play games and drawing
+I have lived Canada for 7 years
 
 
 
@@ -20,16 +27,6 @@ You will be building a 1-page app that describes your team (where you're from, h
 ## Credits
 
 Seojong Lee and Kirk Caspe
-
-I am kirk
-I am from Philippines
-I love playing basketball even though I am not that good, and I also love watching soccer
-
-I am Seojong Lee
-I came from South korea
-I like to play games and drawing
-I have lived Canada for 7 years
-
 
 ## License
 >>>>> main
