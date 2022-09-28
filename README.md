@@ -21,4 +21,7 @@ MIT
 
 I am kirk
 I am from Ph
+
+I am Lee Seojeong
+I came from South Korea
 >>>> main
