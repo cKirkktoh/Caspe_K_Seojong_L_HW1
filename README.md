@@ -1,4 +1,4 @@
-![BOOM! NOT FOUND!](images/asia.jpgasia.jpg "Asian Landmarks")
+![BOOM! NOT FOUND!](images/asia.jpg "Asian Landmarks")
 
 
 # K AND L
