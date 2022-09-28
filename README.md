@@ -21,7 +21,8 @@ Kirk Caspe and Lee Seojeong
 MIT
 
 I am kirk
-I am from Ph
+I am from Philippines
+I love playing basketball even though I am not that good, and I also love watching soccer
 
 I am Lee Seojeong
 I came from Korea
