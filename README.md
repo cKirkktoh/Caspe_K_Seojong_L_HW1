@@ -1,8 +1,16 @@
-![BOOM! NOT FOUND!](images\universe.jpg "Universe")
+#Lee_seojong_HW1
 
-# Learning Github Desktop
+# Project Name
 
-This makes things easier
+TODO: Write a project description
+
+## Installation
+
+TODO: Describe the installation process
+
+## Usage
+
+TODO: Write usage instructions
 
 ## Contributing
 
@@ -12,18 +20,20 @@ This makes things easier
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request :D
 
+## History
+
+TODO: Write history
+
 ## Credits
 
-Kirk Caspe and Lee Seojeong
+TODO: Write credits
 
-## License
-
-MIT
-
+<<<<<< image_branch
 I am kirk
 I am from Philippines
 I love playing basketball even though I am not that good, and I also love watching soccer
 
-I am Lee Seojeong
-I came from Korea
->>>> main
+## License
+>>>>> main
+
+TODO: Write license
